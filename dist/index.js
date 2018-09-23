@@ -95,7 +95,7 @@ module.exports =
 /*! ModuleConcatenation bailout: Module is not an ECMAScript module */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/pongli/my/git/engineforce/delivery/packages/nameof/index.js */1);
+module.exports = __webpack_require__(/*! /Users/pongli/git/engineforce/deli/packages/nameof/index.js */1);
 
 
 /***/ }),
