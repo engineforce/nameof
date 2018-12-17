@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc && poi build",
-    "test": "yarn run test-unit",
+    "test": "npm run test-unit",
     "test-unit": "jest --testPathPattern \\.unit\\.test\\."
   },
   "dependencies": {
